@@ -1,0 +1,58 @@
+.header
+{background-color:#00FF00;
+height: 70px;
+text-align: center;
+color: white;
+margin-bottom: 50px;
+}
+
+.content
+{background-color:#ADFF2F;
+text-align: center;
+color: white;
+
+margin: 0 auto;
+}
+
+.footer
+{background-color:#00FF00;
+height: 70px;
+text-align: center;
+color: white;
+}
+
+body{background-image:url("https://lux.fm/uploads/media_news/2019/02/5c77ca039a010169903163.jpg?w=800&h=450&fit=cover&a=top");}
+
+.post{
+	display: flex;
+}
+
+.box{
+
+   flex-grow:1;
+   background-color: #8FBC8F;
+   padding: 2%;
+   border: 5px solid red;
+}
+
+img{
+	width: 250px;
+}
+
+.menu{
+
+   background-color:#00FF00; 
+
+}
+
+li{
+    display: inline-block;
+    padding: 0px 70px
+
+}
+
+li:hover{
+
+	background-color: #FFA500;
+	color: white;
+}
