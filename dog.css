@@ -30,9 +30,9 @@ body{background-image:url("https://lux.fm/uploads/media_news/2019/02/5c77ca039a0
 .box{
 
    flex-grow:1;
-   background-color: #8FBC8F;
+   background-color: #9ACD32;
    padding: 2%;
-   border: 5px solid red;
+   border: 5px solid #008000;
 }
 
 img{
@@ -56,3 +56,4 @@ li:hover{
 	background-color: #FFA500;
 	color: white;
 }
+
